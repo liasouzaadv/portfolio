@@ -18,7 +18,7 @@
 
  ## Planilha de Dados
 
-Você pode acessar os dados completos da análise na minha [Planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1Hl_HDrnCr_5qbA-PlBuUvvHR0f1Om28DcHqOSJoK4zc/edit?usp=sharing).
+  <p>Você pode acessar os dados completos da análise na minha <a href="https://docs.google.com/spreadsheets/d/1Hl_HDrnCr_5qbA-PlBuUvvHR0f1Om28DcHqOSJoK4zc/edit?usp=sharing"> Planilha Google Sheets</a>.</p>
 
   <footer>
     <p>Veja mais no meu <a href="https://lookerstudio.google.com/reporting/22e88c0c-e40a-4b46-9b05-ff2a40f275f7">Looker Studio</a>.</p>
