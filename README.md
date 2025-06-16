@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+  <meta name="description" content="Portfólio de Lia Souza — Análise de engajamento nas redes sociais">
+<meta property="og:title" content="Portfólio — Lia Souza">
+<meta property="og:description" content="Projeto de análise com Google Sheets e Looker Studio">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Meu Portfólio - Análise de Dados</title>
