@@ -19,7 +19,7 @@
  
 
   <footer>
-    <p>Veja mais no meu <a href="[https://lookerstudio.google.com/reporting/22e88c0c-e40a-4b46-9b05-ff2a40f275f7]">Looker Studio</a>.</p>
+    <p>Veja mais no meu <a href="https://lookerstudio.google.com/reporting/22e88c0c-e40a-4b46-9b05-ff2a40f275f7">Looker Studio</a>.</p>
   </footer>
 </body>
 </html>
